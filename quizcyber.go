@@ -5,6 +5,6 @@ import (
 )
 
 func StartQuizCyber() {
-	fmt.Println("=== Quiz Informatique ===")
+	fmt.Println("=== Quiz Cybersécurité ===")
 	// plus tard : poser les questions ici
 }
