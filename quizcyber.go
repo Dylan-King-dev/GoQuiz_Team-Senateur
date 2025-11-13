@@ -17,4 +17,6 @@ func StartQuizCyber() {
 	fmt.Println("2. Virtual Public Network")
 	fmt.Println("3. Virtual Protected Network")
 	var answer2 int
+	fmt.Println("=== Quiz Cybersécurité ===")
+	// plus tard : poser les questions ici
 }
